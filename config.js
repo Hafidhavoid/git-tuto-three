@@ -1,5 +1,5 @@
 console.log("config 01");
 console.log("config 02");
 console.log("config 03");
-console.log("config 04");
+const x = 3;
 console.log("config feature 02 05");
