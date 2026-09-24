@@ -4,3 +4,4 @@ console.log("config 03");
 const x = 333;
 const y = 8;
 console.log("config 06");
+console.log("version B config");
